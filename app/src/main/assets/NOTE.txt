@@ -1,1 +1,5 @@
-a
+The locations.html file was produced with the following command:
+
+	curl https://dining.missouri.edu/locations/ > locations.html
+
+This reflects the dining hours as of 11/21/23.
